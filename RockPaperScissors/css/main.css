@@ -25,7 +25,8 @@ div.pageTitle {
   margin-left: 575px;
   margin-right: 575px;
   padding: 5px;
-  background-color: rgba(32, 108, 131, 0.3);
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
   border-radius: 10px;
 }
 
@@ -57,7 +58,8 @@ section.content {
 section.rps {
   display: inline-block;
   width: 600px;
-  background-color: rgba(32, 108, 131, 0.3);
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
   border-radius: 50px;
   box-sizing: border-box;
   margin-top: 30px;
